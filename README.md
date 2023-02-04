@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sebastian-hernandez1403
-- 👀 I’m interested in makecode
-- 🌱 I’m currently learning programming
+- 👋 hola, soy sebastian
+- ✍ ahora mismo estoy en octavo grado
+- 💻 estoy aprendiendo a usar makecode arcade
 
 <!---
 sebastian-hernandez1403/sebastian-hernandez1403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
